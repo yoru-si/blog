@@ -1,0 +1,8 @@
+- A modular shower-head. One of those blasters can be concentric. 3D printed shower-heads.
+- Press-fit printing. Check literature. layers don't need to face up at all times anymore.
+- A faster and personal mode of transport that is on person at all times. Can be engaged or disengaged on will, isn't bulky to carry around and minimizes energy spent and time spent compared to running.
+- Some sort of routine on my laptop that runs syncthing and syncs my notes when my device is in reach (Local network, uni campus applies too) at a certain point of time. ***(sort of done, but i now have tailnet by tailscale that works beyond local networks.)***
+- Mechanical PWM using compliant mechanisms (but needs a constant energy source, try both active and passive)
+- Giving robots a character/life, not the same monotonous motion, but a bit comical and stuff.
+- A device that threads needles, or maybe a big hole needle or sth
+- 
